@@ -5,6 +5,8 @@
 - Сделал несколько компонентов, чтоыб показать визуально, что данные в svg меняются.
 - Верстка не адаптивная и точно соответствует макету(Pixel Perfect).
 
+<img src="https://i.ibb.co/tKNLnjr/joxi-screenshot-1582555228563.png" alt="joxi-screenshot-1582555228563" border="0">
+
 
 ## Project setup
 ```
