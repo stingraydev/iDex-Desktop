@@ -35,3 +35,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+[![](https://img.shields.io/badge/-%D0%A1%D0%A1%D0%AB%D0%9B%D0%9A%D0%90%20%D0%9D%D0%90%20%D0%9C%D0%9E%D0%95%20%D0%A0%D0%95%D0%97%D0%AE%D0%9C%D0%95-red)](https://github.com/OWIII/RESUME)
